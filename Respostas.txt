@@ -3,3 +3,5 @@ B - Colaboração, os elementos conhecem o trabalho dos outros, organização ma
 C - Working tree, index e repositorio
 
 E Os tipos de merge são automaticas e manuais, o merge faz a junção de duas branchs reconciliando as verias alterações
+
+git status, git add, git clone, git commit -m
