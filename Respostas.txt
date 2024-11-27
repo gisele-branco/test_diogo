@@ -1,1 +1,3 @@
 B - Colaboração, os elementos conhecem o trabalho dos outros, organização mais fácil de gerir que pastas locais
+
+C - Working tree, index e repositorio
